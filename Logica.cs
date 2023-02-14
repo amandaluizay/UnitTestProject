@@ -56,7 +56,7 @@ namespace UnitTestProject
 
             var vendedor = string.Empty;
 
-            // Essa linha de código em C# inicia um loop "for" que irá percorrer
+            // inicia um loop "for" que irá percorrer
             // o array de "linhas", criado anteriormente
             for (int i = 0; i < linhas.Length; i++)
             {
